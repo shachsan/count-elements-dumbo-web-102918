@@ -1,4 +1,3 @@
 def count_elements(array)
-  # code goes here
+  Hash[*array]
 end
- 
